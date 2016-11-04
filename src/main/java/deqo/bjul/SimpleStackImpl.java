@@ -2,6 +2,7 @@ package deqo.bjul;
 
 import java.util.Stack;
 
+/* un commentaire répondant à l'exigence 3*/
 public class SimpleStackImpl implements SimpleStack{
 
     private Stack<Object> stack = new Stack<>();
