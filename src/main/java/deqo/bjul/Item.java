@@ -2,6 +2,7 @@ package deqo.bjul;
 
 import java.util.Objects;
 
+/* Un commentaire répondant à l'exigence #1*/
 public class Item {
     private Object value;
 
